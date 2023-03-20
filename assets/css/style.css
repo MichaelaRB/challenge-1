@@ -4,9 +4,17 @@
     margin: 0;
 }
 
+/*
+Setting background color for the site.
+*/
+
 body {
     background-color: #d9dcd6;
 }
+
+/*
+Formatting for the header
+*/
 
 .header {
     padding: 20px;
@@ -43,6 +51,10 @@ Format the navigation links at the top of the site
     display: inline-block;
     margin-left: 25px;
 }
+
+/*
+Format for general hyperlinks and paragraphs
+*/
 
 a {
     color: #ffffff;
@@ -86,7 +98,9 @@ Arrange images
     display: inline-block;
     margin-left: 20px;
 }
-
+ /*
+ Style the benefits sidebar
+ */
 .benefits {
     margin-right: 20px;
     padding: 20px;
