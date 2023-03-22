@@ -9,9 +9,8 @@ I wanted to work with the preexisting HTML and CSS of the Horiseon website to ac
 N/A
 
 ## Usage
-
-N/A
-
+   !["The deployed site"](./assets/images/challenge-screenshot.png)
+    
 ## Credits
 
 N/A
